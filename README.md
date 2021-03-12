@@ -4,7 +4,7 @@
 
 1. Install Node.js in your system.
 2. Fork and clone this repository.
-3. Go to the repository directory and run the command `node install package.json`
+3. Go to the repository directory and run the command `npm install package.json`
 4. To run use the following commands
     + On linux `$DEBUG=myapp:* npm start`
     + On windows `set DEBUG=myapp:* & npm start`
